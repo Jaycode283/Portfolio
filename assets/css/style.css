@@ -19,4 +19,46 @@ header {
     align-items: center;
 }
 
+#about {
+    background-color: #fff;
+}
 
+#about h2 {
+    color: #3434db;
+}
+
+#about p {
+    color: #3434db;
+    text-align: center;
+}
+
+nav.main-nav ul {
+    list-style-type: none;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+}
+
+nav.main-nav li {
+    margin-right: 10px;
+}
+
+nav.main-nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+
+section {
+    padding: 30px;
+}
+
+.profile-section {
+    text-align: center;
+}
+
+.profile-pic {
+    width: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
